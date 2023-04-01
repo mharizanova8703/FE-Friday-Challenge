@@ -1,0 +1,52 @@
+.bg-light-purple {
+    background-color: #e4ccff;
+}
+
+.mint-bg {
+    background-color: #aff4c6;
+}
+
+.sky-blue {
+    background-color: #bde3ff;
+}
+
+.text-purple {
+    color: #9746ff;
+}
+
+.font-small {
+    font-size: 0.8rem;
+}
+
+.star {
+    float: right;
+    margin-top: -3rem;
+
+}
+
+.flower-new {
+    width: 100px;
+    height: 100px;
+}
+
+.flower {
+    width: 110px;
+}
+
+.font-size-m {
+    font-size: 0.8rem;
+}
+
+.heart {
+    width: 80px;
+    height: 80px;
+    margin-top: -3rem;
+}
+
+hr {
+    width: 90%;
+    border: 3px solid #9746ff;
+    background: #9746ff;
+    opacity: inherit;
+
+}
